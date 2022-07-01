@@ -1,0 +1,26 @@
+# include <stdio.h>
+
+main()
+{
+  int = life, agility, strength, wit;
+  char attaque[] = attaque
+  char = RPGClasse ;
+  char name[] = "Jean-luc";
+
+  scanf (" %i %i %i %i %i", &life, &agility, &strength, &wit, &RPGClasse) ;
+  printf (" WARRIOR\n RPGClasse:%i\n life:%i\n agility:%i\n strength:%i\n wit:%i\n", RPGClasse, life, agility, strength, wit, );
+  printf ("[%s] : Rrrrrrrrr........", name);
+  scanf (" [%s] ",attaque);
+  if (attaque=hammer) 
+   {
+    printf ("I'll crush you my hammer");
+   }
+else if (attaque=sword)
+   {
+    printf ("I'll crush you my sword");    
+   }
+else
+    {
+    printf ("try again");    
+    }
+}

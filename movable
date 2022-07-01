@@ -1,0 +1,48 @@
+# include <stdio.h>
+
+main()
+{
+  char = warrior, mage;
+
+  switch(warrior)
+    {
+    case 1 :
+      printf("My name will go down in history!");
+      printf("\n moves right like a bad boy");
+      break ;
+    case 2 :
+      printf("My name will go down in history!");
+      printf("\n moves left like a bad boy");
+      break ;
+    case 3 :
+      printf("My name will go down in history!");
+      printf("\n moves back like a bad boy");
+      break ;
+    case 4 :
+      printf("My name will go down in history!");
+      printf("\n moves forward like a bad boy");
+      break ;
+
+    }
+  
+    switch(mage)
+    {
+    case 1 :
+      printf("May the gods be with me.");
+      printf("\n moves right furtively");
+      break ;
+    case 2 :
+      printf("May the gods be with me.");
+      printf("\n moves left furtively");
+      break ;
+    case 3 :
+      printf("May the gods be with me.");
+      printf("\n moves back furtively");
+      break ;
+    case 4 :
+      printf("May the gods be with me.");
+      printf("\n moves forward furtively");
+      break ;
+
+    }
+}

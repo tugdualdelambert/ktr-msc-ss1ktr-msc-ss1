@@ -1,0 +1,13 @@
+# include <stdio.h>
+
+main()
+{
+  int = life, agility, strength, wit;
+  char = RPGClasse ;
+  char name[] = "Jean-luc";
+  
+  scanf (" %i %i %i %i %i", &life, &agility, &strength, &wit, &RPGClasse) ;
+  printf ("%s\n %i\n %i\n %i\n %i\n %i\n", name, life, agility, strength, wit, RPGClasse);
+  printf ("[%s] : Rrrrrrrrr........", name);
+  
+}
